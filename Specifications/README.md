@@ -1,4 +1,4 @@
-Note on Specifications
+# Specifications
 
 This repository contains three scorecard files used for generating EnergyPlus input files. These include scorecards for Single-Family, Low-rise Multifamily, and Nonresidential prototype models. 
 
