@@ -1,6 +1,6 @@
 # Documentation
 
-This repository contains documentation files related to the CalBEM models. Documentation is available for the following model categories:
+This directory contains documentation files related to the CalBEM prototype models. Documentation is available for the following model categories:
 
 - Single-Family Prototype Models
 - Low-rise Multifamily Prototype Models
