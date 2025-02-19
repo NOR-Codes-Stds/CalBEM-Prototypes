@@ -1,5 +1,4 @@
 # CalBEM-Prototypes
-California Prototypes Project
 
 ## California Prototypes Development Project
 The objective of the California Prototypes Development project, funded by Southern California Edison’s (SCE) Codes and Standards Program, is to develop a set of prototype building models representing California’s residential and nonresidential building stock that can be used by policymaking agencies and other stakeholders. Prototypes developed under this project attempt to capture features of California’s building stock using the latest data sources. The models and model inputs development were developed with input from a technical advisory group (TAG) and underwent review from several parties during the development process. The models and the underlying model inputs and assumptions have been documented and can be accessed from this page.
