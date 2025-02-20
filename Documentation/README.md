@@ -3,7 +3,7 @@
 This directory contains documentation files related to the CalBEM prototype models. Documentation is available for the following model categories:
 
 - Single-Family Prototype Models
-- Low-rise Multifamily Prototype Models
+- Low-Rise Multifamily Prototype Models
 - Nonresidential Prototype Models
 
 ## Single-Family Models: the following documents provide details on the Single-Family models:
