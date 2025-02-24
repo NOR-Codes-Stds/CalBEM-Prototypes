@@ -4,7 +4,7 @@ This directory contains three categories of EnergyPlus models representing the e
 
 If an alternative energy modeling platform is preferred, users can refer to the scorecards available in the Specification folder to develop equivalent models.
 
-There are four types of IDF models available in this folder, including:
+There are four types of IDF models available in the Single-Family folder, including:
   
   - `Model A`: 1-Story Single-Family home with a conditioned floor area of 1250 SF.
   
