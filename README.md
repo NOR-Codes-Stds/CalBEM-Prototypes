@@ -31,3 +31,13 @@ For each of the three building sectors (single-family, multifamily, and nonresid
 1. Validation: Prototype models were validated at the end-use level using stock energy consumption data from the 2019 Residential Appliance Saturation Survey (RASS) for single-family and multifamily buildings. The 2022 Commercial End-Use Survey (CEUS) will be used, for validating nonresidential buildings. 
 
 Model input documentation and the open nature of dialogue and collaboration between  stakeholders via the Prototypes TAG are key features of this project. The intent is to rigorously document the assumptions, host the models and documentation on a public platform, and provide a forum for continuous improvement, maintenance, and development.
+
+## Revision 2 — Single‑Family Prototype Models
+
+ - Scope: This release incorporates targeted corrections and calibration updates for the second revision of the single‑family residential EnergyPlus prototype set.
+
+    - Detailed Change Log
+        - Model A: Building Envelope: Window Overhang Geometry - Re‑defined overhang vertex coordinates to eliminate shading‑object misalignment.
+        - Model C: Spatial Layout: Second‑Floor Inter‑Zone Spacing - Corrected surface‑adjacency definitions to resolve conditioned/unconditioned‑zone gaps.
+        - All models: Infiltration: ACH Rates (2006 – 2022 & New‑Construction Vintages) - Adjusted infiltration rates to meet minimum ventilation requirements (per ASHRAE 62.2‑2022 and CA Title 24).
+        - All models: Domestic Hot Water: DHW End‑Use Calibration - Re‑parameterised storage‑tank settings and distribution piping to align annual hot‑water energy use with Residential Appliance Saturation Study (RASS) Unit Energy Consumption (UEC) targets.
