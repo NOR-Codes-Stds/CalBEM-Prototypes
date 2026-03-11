@@ -13,3 +13,6 @@ Defines building-level loads and systems that are not tied to individual zones b
 
 ### `ZONE.csv`
 Defines what each building zone is and how it behaves in the energy model. It identifies which building type and code era the zone belongs to, then describes the zone’s size and whether it counts toward total floor area. It also specifies all major zone inputs: people, lighting, plug loads, gas loads, infiltration, ventilation, hot water use, and thermostat setpoints, using simple values and schedules. The file is used by the workflow to automatically create consistent EnergyPlus zone objects and internal loads without manually editing the model.
+
+### `Data Dictionary.xlsx` 
+Defines the structure and content of the ENVELOPE, WHOLE_BLDG, and ZONE data files. It contains three separate tabs, one for each data file, providing detailed definitions of all column headers with a clear description of its purpose, expected data type, and units where applicable.
