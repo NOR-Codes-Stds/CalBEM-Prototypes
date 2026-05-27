@@ -124,6 +124,9 @@
 | 68 | **Heating_SetPoint_Schedule_Name** | *Text/String* | Heating setpoint schedule. Maps to ThermostatSetpoint:DualSetpoint, Heating Setpoint Temperature Schedule Name. |
 | 69 | **Cooling_SetPoint_Schedule_Name** | *Text/String* | Cooling setpoint schedule. Maps to ThermostatSetpoint:DualSetpoint, Cooling Setpoint Temperature Schedule Name. |
 
+<div class="page"/>
+<div style="page-break-before: always;"></div>
+
 
 # `Whole_Bldg.csv`
 ## General Information
@@ -174,6 +177,8 @@
 | 27 | **Unit** | *Text/String* | Units for loss coefficient (Typically Btu/hr-F). |
 | 28 | **End_Use_Subcategory_3.1** | *Text/String* | End-use tag for reporting (commonly “GasWaterHeater”). |
 
+<div class="page"/>
+<div style="page-break-before: always;"></div>
 
 # `Envelope.csv`
 ![Elements 1-14](images/data-dictionary_envelope_1-14.png)
