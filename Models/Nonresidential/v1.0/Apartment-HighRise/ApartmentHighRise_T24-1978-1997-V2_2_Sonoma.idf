@@ -1141,7 +1141,7 @@ Schedule:Day:Hourly,
     0,                       !- Hour 22
     0,                       !- Hour 23
     0;                       !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     WaterHeaterAmbientTempDaily,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -1169,7 +1169,7 @@ Schedule:Day:Hourly,
     20,                      !- Hour 22
     20,                      !- Hour 23
     20;                      !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     BaseHWSystemTempDaily,   !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -1197,7 +1197,7 @@ Schedule:Day:Hourly,
     71.1,                    !- Hour 22
     71.1,                    !- Hour 23
     71.1;                    !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SHWSystemSetpointTemp130Daily,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -1225,7 +1225,7 @@ Schedule:Day:Hourly,
     54.4,                    !- Hour 22
     54.4,                    !- Hour 23
     54.4;                    !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SHWSystemSetpointTemp135Daily,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -1253,7 +1253,7 @@ Schedule:Day:Hourly,
     57.2,                    !- Hour 22
     57.2,                    !- Hour 23
     57.2;                    !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     TargetSHWTemp130Daily,   !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -1281,7 +1281,7 @@ Schedule:Day:Hourly,
     54.4,                    !- Hour 22
     54.4,                    !- Hour 23
     54.4;                    !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     BaseCHWSystemTempDaily,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -1309,7 +1309,7 @@ Schedule:Day:Hourly,
     6.7,                     !- Hour 22
     6.7,                     !- Hour 23
     6.7;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     BaseCWSystemTempDaily,   !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -1337,7 +1337,7 @@ Schedule:Day:Hourly,
     21.1,                    !- Hour 22
     21.1,                    !- Hour 23
     21.1;                    !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     BaseHPHWSystemTempDaily, !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -1365,7 +1365,7 @@ Schedule:Day:Hourly,
     54.4,                    !- Hour 22
     54.4,                    !- Hour 23
     54.4;                    !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     TargetSHWTemp135Daily,   !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -1882,7 +1882,7 @@ Schedule:Day:Hourly,
     0.0,                     !- Hour 22
     0.0,                     !- Hour 23
     0.0;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ApartmentHighRiseResidentialLivingHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -1910,7 +1910,7 @@ Schedule:Day:Hourly,
     20.0,                    !- Hour 22
     20.0,                    !- Hour 23
     20.0;                    !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ApartmentHighRiseResidentialLivingHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -1938,7 +1938,7 @@ Schedule:Day:Hourly,
     20.0,                    !- Hour 22
     20.0,                    !- Hour 23
     20.0;                    !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ApartmentHighRiseResidentialLivingHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -1966,7 +1966,7 @@ Schedule:Day:Hourly,
     20.0,                    !- Hour 22
     20.0,                    !- Hour 23
     20.0;                    !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ApartmentHighRiseResidentialLivingClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -1994,7 +1994,7 @@ Schedule:Day:Hourly,
     25.56,                   !- Hour 22
     25.56,                   !- Hour 23
     25.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ApartmentHighRiseResidentialLivingClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -2022,7 +2022,7 @@ Schedule:Day:Hourly,
     25.56,                   !- Hour 22
     25.56,                   !- Hour 23
     25.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ApartmentHighRiseResidentialLivingClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -2701,7 +2701,7 @@ Schedule:Day:Hourly,
     1.0,                     !- Hour 22
     1.0,                     !- Hour 23
     1.0;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ApartmentHighRiseResidentialCommonHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -2729,7 +2729,7 @@ Schedule:Day:Hourly,
     20.0,                    !- Hour 22
     20.0,                    !- Hour 23
     20.0;                    !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ApartmentHighRiseResidentialCommonHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -2757,7 +2757,7 @@ Schedule:Day:Hourly,
     20.0,                    !- Hour 22
     20.0,                    !- Hour 23
     20.0;                    !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ApartmentHighRiseResidentialCommonHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -2785,7 +2785,7 @@ Schedule:Day:Hourly,
     20.0,                    !- Hour 22
     20.0,                    !- Hour 23
     20.0;                    !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ApartmentHighRiseResidentialCommonClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -2813,7 +2813,7 @@ Schedule:Day:Hourly,
     25.56,                   !- Hour 22
     25.56,                   !- Hour 23
     25.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ApartmentHighRiseResidentialCommonClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -2841,7 +2841,7 @@ Schedule:Day:Hourly,
     25.56,                   !- Hour 22
     25.56,                   !- Hour 23
     25.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ApartmentHighRiseResidentialCommonClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -3520,7 +3520,7 @@ Schedule:Day:Hourly,
     1.0,                     !- Hour 22
     1.0,                     !- Hour 23
     1.0;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ApartmentHighRiseRetailHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -3548,7 +3548,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ApartmentHighRiseRetailHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -3576,7 +3576,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ApartmentHighRiseRetailHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -3604,7 +3604,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ApartmentHighRiseRetailClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -3632,7 +3632,7 @@ Schedule:Day:Hourly,
     29.44,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ApartmentHighRiseRetailClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -3660,7 +3660,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ApartmentHighRiseRetailClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -4840,7 +4840,7 @@ Schedule:Day:Hourly,
     0.0,                     !- Hour 22
     0.0,                     !- Hour 23
     0.0;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ApartmentMidRiseResidentialLivingHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -4868,7 +4868,7 @@ Schedule:Day:Hourly,
     20.0,                    !- Hour 22
     20.0,                    !- Hour 23
     20.0;                    !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ApartmentMidRiseResidentialLivingHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -4896,7 +4896,7 @@ Schedule:Day:Hourly,
     20.0,                    !- Hour 22
     20.0,                    !- Hour 23
     20.0;                    !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ApartmentMidRiseResidentialLivingHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -4924,7 +4924,7 @@ Schedule:Day:Hourly,
     20.0,                    !- Hour 22
     20.0,                    !- Hour 23
     20.0;                    !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ApartmentMidRiseResidentialLivingClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -4952,7 +4952,7 @@ Schedule:Day:Hourly,
     25.56,                   !- Hour 22
     25.56,                   !- Hour 23
     25.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ApartmentMidRiseResidentialLivingClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -4980,7 +4980,7 @@ Schedule:Day:Hourly,
     25.56,                   !- Hour 22
     25.56,                   !- Hour 23
     25.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ApartmentMidRiseResidentialLivingClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -5659,7 +5659,7 @@ Schedule:Day:Hourly,
     1.0,                     !- Hour 22
     1.0,                     !- Hour 23
     1.0;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ApartmentMidRiseResidentialCommonHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -5687,7 +5687,7 @@ Schedule:Day:Hourly,
     20.0,                    !- Hour 22
     20.0,                    !- Hour 23
     20.0;                    !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ApartmentMidRiseResidentialCommonHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -5715,7 +5715,7 @@ Schedule:Day:Hourly,
     20.0,                    !- Hour 22
     20.0,                    !- Hour 23
     20.0;                    !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ApartmentMidRiseResidentialCommonHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -5743,7 +5743,7 @@ Schedule:Day:Hourly,
     20.0,                    !- Hour 22
     20.0,                    !- Hour 23
     20.0;                    !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ApartmentMidRiseResidentialCommonClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -5771,7 +5771,7 @@ Schedule:Day:Hourly,
     25.56,                   !- Hour 22
     25.56,                   !- Hour 23
     25.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ApartmentMidRiseResidentialCommonClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -5799,7 +5799,7 @@ Schedule:Day:Hourly,
     25.56,                   !- Hour 22
     25.56,                   !- Hour 23
     25.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ApartmentMidRiseResidentialCommonClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -6559,7 +6559,7 @@ Schedule:Day:Hourly,
     0.9,                     !- Hour 22
     0.9,                     !- Hour 23
     0.9;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ApartmentMidRiseRetailHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -6587,7 +6587,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ApartmentMidRiseRetailHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -6615,7 +6615,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ApartmentMidRiseRetailHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -6643,7 +6643,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ApartmentMidRiseRetailClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -6671,7 +6671,7 @@ Schedule:Day:Hourly,
     29.44,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ApartmentMidRiseRetailClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -6699,7 +6699,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ApartmentMidRiseRetailClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -7621,7 +7621,7 @@ Schedule:Day:Hourly,
     0.25,                    !- Hour 22
     0.25,                    !- Hour 23
     1.0;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     AssemblyHtgSetptWD,      !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -7649,7 +7649,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     AssemblyHtgSetptSat,     !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -7677,7 +7677,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     AssemblyHtgSetptSun,     !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -7705,7 +7705,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     AssemblyClgSetptWD,      !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -7733,7 +7733,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     AssemblyClgSetptSat,     !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -7761,7 +7761,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     AssemblyClgSetptSun,     !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -8278,7 +8278,7 @@ Schedule:Day:Hourly,
     1.0,                     !- Hour 22
     1.0,                     !- Hour 23
     1.0;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     AssemblyOfficeHtgSetptWD,!- Name
     Temperature,             !- Schedule Type Limits Name
@@ -8306,7 +8306,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     AssemblyOfficeHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -8334,7 +8334,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     AssemblyOfficeHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -8362,7 +8362,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     AssemblyOfficeClgSetptWD,!- Name
     Temperature,             !- Schedule Type Limits Name
@@ -8390,7 +8390,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     23.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     AssemblyOfficeClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -8418,7 +8418,7 @@ Schedule:Day:Hourly,
     29.44,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     AssemblyOfficeClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -9592,7 +9592,7 @@ Schedule:Day:Hourly,
     0.0,                     !- Hour 22
     0.0,                     !- Hour 23
     0.0;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalHealthHtgSetptWD,!- Name
     Temperature,             !- Schedule Type Limits Name
@@ -9620,7 +9620,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalHealthHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -9648,7 +9648,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalHealthHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -9676,7 +9676,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalHealthClgSetptWD,!- Name
     Temperature,             !- Schedule Type Limits Name
@@ -9704,7 +9704,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     23.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalHealthClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -9732,7 +9732,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     23.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalHealthClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -10330,7 +10330,7 @@ Schedule:Day:Hourly,
     1.0,                     !- Hour 22
     1.0,                     !- Hour 23
     1.0;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalHealth24/7HtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -10358,7 +10358,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalHealth24/7HtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -10386,7 +10386,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalHealth24/7HtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -10414,7 +10414,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalHealth24/7ClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -10442,7 +10442,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     23.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalHealth24/7ClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -10470,7 +10470,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     23.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalHealth24/7ClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -10987,7 +10987,7 @@ Schedule:Day:Hourly,
     1.0,                     !- Hour 22
     1.0,                     !- Hour 23
     1.0;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalPatient24/7HtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -11015,7 +11015,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalPatient24/7HtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -11043,7 +11043,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalPatient24/7HtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -11071,7 +11071,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalPatient24/7ClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -11099,7 +11099,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     23.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalPatient24/7ClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -11127,7 +11127,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     23.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalPatient24/7ClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -11644,7 +11644,7 @@ Schedule:Day:Hourly,
     1.0,                     !- Hour 22
     1.0,                     !- Hour 23
     1.0;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalUnoccupiedHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -11672,7 +11672,7 @@ Schedule:Day:Hourly,
     18.89,                   !- Hour 22
     18.89,                   !- Hour 23
     18.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalUnoccupiedHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -11700,7 +11700,7 @@ Schedule:Day:Hourly,
     18.89,                   !- Hour 22
     18.89,                   !- Hour 23
     18.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalUnoccupiedHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -11728,7 +11728,7 @@ Schedule:Day:Hourly,
     18.89,                   !- Hour 22
     18.89,                   !- Hour 23
     18.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalUnoccupiedClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -11756,7 +11756,7 @@ Schedule:Day:Hourly,
     26.11,                   !- Hour 22
     26.11,                   !- Hour 23
     26.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalUnoccupiedClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -11784,7 +11784,7 @@ Schedule:Day:Hourly,
     26.11,                   !- Hour 22
     26.11,                   !- Hour 23
     26.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalUnoccupiedClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -12301,7 +12301,7 @@ Schedule:Day:Hourly,
     1.0,                     !- Hour 22
     1.0,                     !- Hour 23
     1.0;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalOfficeHtgSetptWD,!- Name
     Temperature,             !- Schedule Type Limits Name
@@ -12329,7 +12329,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalOfficeHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -12357,7 +12357,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalOfficeHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -12385,7 +12385,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalOfficeClgSetptWD,!- Name
     Temperature,             !- Schedule Type Limits Name
@@ -12413,7 +12413,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     23.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalOfficeClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -12441,7 +12441,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     23.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalOfficeClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -13039,7 +13039,7 @@ Schedule:Day:Hourly,
     0.25,                    !- Hour 22
     0.25,                    !- Hour 23
     0.25;                    !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalRestaurantHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -13067,7 +13067,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalRestaurantHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -13095,7 +13095,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalRestaurantHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -13123,7 +13123,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalRestaurantClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -13151,7 +13151,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     23.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalRestaurantClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -13179,7 +13179,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     23.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalRestaurantClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -14020,7 +14020,7 @@ Schedule:Day:Hourly,
     0.75,                    !- Hour 22
     0.5,                     !- Hour 23
     0.5;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalKitchenHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -14048,7 +14048,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalKitchenHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -14076,7 +14076,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalKitchenHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -14104,7 +14104,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalKitchenClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -14132,7 +14132,7 @@ Schedule:Day:Hourly,
     30.0,                    !- Hour 22
     30.0,                    !- Hour 23
     30.0;                    !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalKitchenClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -14160,7 +14160,7 @@ Schedule:Day:Hourly,
     30.0,                    !- Hour 22
     30.0,                    !- Hour 23
     30.0;                    !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HospitalKitchenClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -15088,7 +15088,7 @@ Schedule:Day:Hourly,
     0.25,                    !- Hour 22
     0.25,                    !- Hour 23
     0.25;                    !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeServiceAndBackUpPrepHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -15116,7 +15116,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeServiceAndBackUpPrepHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -15144,7 +15144,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeServiceAndBackUpPrepHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -15172,7 +15172,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeServiceAndBackUpPrepClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -15200,7 +15200,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     23.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeServiceAndBackUpPrepClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -15228,7 +15228,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     23.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeServiceAndBackUpPrepClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -15826,7 +15826,7 @@ Schedule:Day:Hourly,
     0.1,                     !- Hour 22
     0.0,                     !- Hour 23
     0.0;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeAssemblyHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -15854,7 +15854,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeAssemblyHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -15882,7 +15882,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeAssemblyHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -15910,7 +15910,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeAssemblyClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -15938,7 +15938,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeAssemblyClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -15966,7 +15966,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeAssemblyClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -16483,7 +16483,7 @@ Schedule:Day:Hourly,
     0.25,                    !- Hour 22
     0.25,                    !- Hour 23
     0.25;                    !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeResidentialCommonHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -16511,7 +16511,7 @@ Schedule:Day:Hourly,
     20.0,                    !- Hour 22
     20.0,                    !- Hour 23
     20.0;                    !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeResidentialCommonHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -16539,7 +16539,7 @@ Schedule:Day:Hourly,
     20.0,                    !- Hour 22
     20.0,                    !- Hour 23
     20.0;                    !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeResidentialCommonHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -16567,7 +16567,7 @@ Schedule:Day:Hourly,
     20.0,                    !- Hour 22
     20.0,                    !- Hour 23
     20.0;                    !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeResidentialCommonClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -16595,7 +16595,7 @@ Schedule:Day:Hourly,
     25.56,                   !- Hour 22
     25.56,                   !- Hour 23
     25.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeResidentialCommonClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -16623,7 +16623,7 @@ Schedule:Day:Hourly,
     25.56,                   !- Hour 22
     25.56,                   !- Hour 23
     25.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeResidentialCommonClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -17140,7 +17140,7 @@ Schedule:Day:Hourly,
     1.0,                     !- Hour 22
     1.0,                     !- Hour 23
     1.0;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeResidentialLivingHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -17168,7 +17168,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeResidentialLivingHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -17196,7 +17196,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeResidentialLivingHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -17224,7 +17224,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeResidentialLivingClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -17252,7 +17252,7 @@ Schedule:Day:Hourly,
     22.22,                   !- Hour 22
     22.22,                   !- Hour 23
     22.22;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeResidentialLivingClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -17280,7 +17280,7 @@ Schedule:Day:Hourly,
     22.22,                   !- Hour 22
     22.22,                   !- Hour 23
     22.22;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeResidentialLivingClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -17797,7 +17797,7 @@ Schedule:Day:Hourly,
     1.0,                     !- Hour 22
     1.0,                     !- Hour 23
     1.0;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeRetailHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -17825,7 +17825,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeRetailHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -17853,7 +17853,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeRetailHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -17881,7 +17881,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeRetailClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -17909,7 +17909,7 @@ Schedule:Day:Hourly,
     29.44,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeRetailClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -17937,7 +17937,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeRetailClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -18454,7 +18454,7 @@ Schedule:Day:Hourly,
     0.25,                    !- Hour 22
     0.25,                    !- Hour 23
     0.25;                    !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeRestaurantHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -18482,7 +18482,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeRestaurantHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -18510,7 +18510,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeRestaurantHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -18538,7 +18538,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeRestaurantClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -18566,7 +18566,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     23.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeRestaurantClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -18594,7 +18594,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     23.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeRestaurantClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -19435,7 +19435,7 @@ Schedule:Day:Hourly,
     0.75,                    !- Hour 22
     0.5,                     !- Hour 23
     0.5;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeKitchenHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -19463,7 +19463,7 @@ Schedule:Day:Hourly,
     18.89,                   !- Hour 22
     18.89,                   !- Hour 23
     18.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeKitchenHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -19491,7 +19491,7 @@ Schedule:Day:Hourly,
     18.89,                   !- Hour 22
     18.89,                   !- Hour 23
     18.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeKitchenHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -19519,7 +19519,7 @@ Schedule:Day:Hourly,
     18.89,                   !- Hour 22
     18.89,                   !- Hour 23
     18.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeKitchenClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -19547,7 +19547,7 @@ Schedule:Day:Hourly,
     26.11,                   !- Hour 22
     26.11,                   !- Hour 23
     26.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeKitchenClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -19575,7 +19575,7 @@ Schedule:Day:Hourly,
     26.11,                   !- Hour 22
     26.11,                   !- Hour 23
     26.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeKitchenClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -20092,7 +20092,7 @@ Schedule:Day:Hourly,
     1.0,                     !- Hour 22
     1.0,                     !- Hour 23
     1.0;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeOfficeHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -20120,7 +20120,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeOfficeHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -20148,7 +20148,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeOfficeHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -20176,7 +20176,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeOfficeClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -20204,7 +20204,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     23.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeOfficeClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -20232,7 +20232,7 @@ Schedule:Day:Hourly,
     29.44,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelLargeOfficeClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -21157,7 +21157,7 @@ Schedule:Day:Hourly,
     0.1,                     !- Hour 22
     0.0,                     !- Hour 23
     0.0;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelSmallAssemblyHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -21185,7 +21185,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelSmallAssemblyHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -21213,7 +21213,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelSmallAssemblyHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -21241,7 +21241,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelSmallAssemblyClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -21269,7 +21269,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelSmallAssemblyClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -21297,7 +21297,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelSmallAssemblyClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -21814,7 +21814,7 @@ Schedule:Day:Hourly,
     0.25,                    !- Hour 22
     0.25,                    !- Hour 23
     0.25;                    !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelSmallResidentialCommonHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -21842,7 +21842,7 @@ Schedule:Day:Hourly,
     20.0,                    !- Hour 22
     20.0,                    !- Hour 23
     20.0;                    !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelSmallResidentialCommonHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -21870,7 +21870,7 @@ Schedule:Day:Hourly,
     20.0,                    !- Hour 22
     20.0,                    !- Hour 23
     20.0;                    !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelSmallResidentialCommonHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -21898,7 +21898,7 @@ Schedule:Day:Hourly,
     20.0,                    !- Hour 22
     20.0,                    !- Hour 23
     20.0;                    !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelSmallResidentialCommonClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -21926,7 +21926,7 @@ Schedule:Day:Hourly,
     25.56,                   !- Hour 22
     25.56,                   !- Hour 23
     25.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelSmallResidentialCommonClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -21954,7 +21954,7 @@ Schedule:Day:Hourly,
     25.56,                   !- Hour 22
     25.56,                   !- Hour 23
     25.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelSmallResidentialCommonClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -22471,7 +22471,7 @@ Schedule:Day:Hourly,
     1.0,                     !- Hour 22
     1.0,                     !- Hour 23
     1.0;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelSmallResidentialLivingHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -22499,7 +22499,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelSmallResidentialLivingHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -22527,7 +22527,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelSmallResidentialLivingHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -22555,7 +22555,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelSmallResidentialLivingClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -22583,7 +22583,7 @@ Schedule:Day:Hourly,
     22.22,                   !- Hour 22
     22.22,                   !- Hour 23
     22.22;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelSmallResidentialLivingClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -22611,7 +22611,7 @@ Schedule:Day:Hourly,
     22.22,                   !- Hour 22
     22.22,                   !- Hour 23
     22.22;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelSmallResidentialLivingClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -23128,7 +23128,7 @@ Schedule:Day:Hourly,
     1.0,                     !- Hour 22
     1.0,                     !- Hour 23
     1.0;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelSmallOfficeHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -23156,7 +23156,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelSmallOfficeHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -23184,7 +23184,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelSmallOfficeHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -23212,7 +23212,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelSmallOfficeClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -23240,7 +23240,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     23.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelSmallOfficeClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -23268,7 +23268,7 @@ Schedule:Day:Hourly,
     29.44,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     HotelSmallOfficeClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -24433,7 +24433,7 @@ Schedule:Day:Hourly,
     0.2,                     !- Hour 22
     0.2,                     !- Hour 23
     0.2;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     LabHtgSetptWD,           !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -24461,7 +24461,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     LabHtgSetptSat,          !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -24489,7 +24489,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     LabHtgSetptSun,          !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -24517,7 +24517,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     LabClgSetptWD,           !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -24545,7 +24545,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     23.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     LabClgSetptSat,          !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -24573,7 +24573,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     23.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     LabClgSetptSun,          !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -25090,7 +25090,7 @@ Schedule:Day:Hourly,
     1.0,                     !- Hour 22
     1.0,                     !- Hour 23
     1.0;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     LabOfficeHtgSetptWD,     !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -25118,7 +25118,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     LabOfficeHtgSetptSat,    !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -25146,7 +25146,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     LabOfficeHtgSetptSun,    !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -25174,7 +25174,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     LabOfficeClgSetptWD,     !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -25202,7 +25202,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     23.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     LabOfficeClgSetptSat,    !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -25230,7 +25230,7 @@ Schedule:Day:Hourly,
     29.44,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     LabOfficeClgSetptSun,    !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -25990,7 +25990,7 @@ Schedule:Day:Hourly,
     1.0,                     !- Hour 22
     1.0,                     !- Hour 23
     1.0;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     OfficeLargeOfficeHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -26018,7 +26018,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     OfficeLargeOfficeHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -26046,7 +26046,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     OfficeLargeOfficeHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -26074,7 +26074,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     OfficeLargeOfficeClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -26102,7 +26102,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     23.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     OfficeLargeOfficeClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -26130,7 +26130,7 @@ Schedule:Day:Hourly,
     29.44,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     OfficeLargeOfficeClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -26566,7 +26566,7 @@ Schedule:Day:Hourly,
     0.25,                    !- Hour 22
     0.25,                    !- Hour 23
     0.25;                    !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     OfficeLargeDataClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -26594,7 +26594,7 @@ Schedule:Day:Hourly,
     26.67,                   !- Hour 22
     26.67,                   !- Hour 23
     26.67;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     OfficeLargeDataClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -26622,7 +26622,7 @@ Schedule:Day:Hourly,
     26.67,                   !- Hour 22
     26.67,                   !- Hour 23
     26.67;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     OfficeLargeDataClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -27466,7 +27466,7 @@ Schedule:Day:Hourly,
     1.0,                     !- Hour 22
     1.0,                     !- Hour 23
     1.0;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     OfficeMediumOfficeHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -27494,7 +27494,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     OfficeMediumOfficeHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -27522,7 +27522,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     OfficeMediumOfficeHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -27550,7 +27550,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     OfficeMediumOfficeClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -27578,7 +27578,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     23.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     OfficeMediumOfficeClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -27606,7 +27606,7 @@ Schedule:Day:Hourly,
     29.44,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     OfficeMediumOfficeClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -28042,7 +28042,7 @@ Schedule:Day:Hourly,
     0.25,                    !- Hour 22
     0.25,                    !- Hour 23
     0.25;                    !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     OfficeMediumDataClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -28070,7 +28070,7 @@ Schedule:Day:Hourly,
     26.67,                   !- Hour 22
     26.67,                   !- Hour 23
     26.67;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     OfficeMediumDataClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -28098,7 +28098,7 @@ Schedule:Day:Hourly,
     26.67,                   !- Hour 22
     26.67,                   !- Hour 23
     26.67;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     OfficeMediumDataClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -28858,7 +28858,7 @@ Schedule:Day:Hourly,
     1.0,                     !- Hour 22
     1.0,                     !- Hour 23
     1.0;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     OfficeSmallOfficeHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -28886,7 +28886,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     OfficeSmallOfficeHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -28914,7 +28914,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     OfficeSmallOfficeHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -28942,7 +28942,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     OfficeSmallOfficeClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -28970,7 +28970,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     23.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     OfficeSmallOfficeClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -28998,7 +28998,7 @@ Schedule:Day:Hourly,
     29.44,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     OfficeSmallOfficeClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -29839,7 +29839,7 @@ Schedule:Day:Hourly,
     0.0,                     !- Hour 22
     0.0,                     !- Hour 23
     0.0;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     OutpatientHealthHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -29867,7 +29867,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     OutpatientHealthHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -29895,7 +29895,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     OutpatientHealthHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -29923,7 +29923,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     OutpatientHealthClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -29951,7 +29951,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     23.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     OutpatientHealthClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -29979,7 +29979,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     23.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     OutpatientHealthClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -30496,7 +30496,7 @@ Schedule:Day:Hourly,
     1.0,                     !- Hour 22
     1.0,                     !- Hour 23
     1.0;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     OutpatientOfficeHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -30524,7 +30524,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     OutpatientOfficeHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -30552,7 +30552,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     OutpatientOfficeHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -30580,7 +30580,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     OutpatientOfficeClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -30608,7 +30608,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     23.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     OutpatientOfficeClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -30636,7 +30636,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     23.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     OutpatientOfficeClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -31720,7 +31720,7 @@ Schedule:Day:Hourly,
     1.0,                     !- Hour 22
     1.0,                     !- Hour 23
     1.0;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ParkingTicketAttendantHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -31748,7 +31748,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ParkingTicketAttendantHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -31776,7 +31776,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ParkingTicketAttendantHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -31804,7 +31804,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ParkingTicketAttendantClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -31832,7 +31832,7 @@ Schedule:Day:Hourly,
     29.44,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ParkingTicketAttendantClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -31860,7 +31860,7 @@ Schedule:Day:Hourly,
     29.44,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     ParkingTicketAttendantClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -32869,7 +32869,7 @@ Schedule:Day:Hourly,
     0.9,                     !- Hour 22
     0.9,                     !- Hour 23
     0.9;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RestaurantFastFoodRestaurantHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -32897,7 +32897,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RestaurantFastFoodRestaurantHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -32925,7 +32925,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RestaurantFastFoodRestaurantHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -32953,7 +32953,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RestaurantFastFoodRestaurantClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -32981,7 +32981,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     23.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RestaurantFastFoodRestaurantClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -33009,7 +33009,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     23.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RestaurantFastFoodRestaurantClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -33850,7 +33850,7 @@ Schedule:Day:Hourly,
     0.75,                    !- Hour 22
     0.5,                     !- Hour 23
     0.5;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RestaurantFastFoodKitchenHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -33878,7 +33878,7 @@ Schedule:Day:Hourly,
     18.89,                   !- Hour 22
     18.89,                   !- Hour 23
     18.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RestaurantFastFoodKitchenHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -33906,7 +33906,7 @@ Schedule:Day:Hourly,
     18.89,                   !- Hour 22
     18.89,                   !- Hour 23
     18.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RestaurantFastFoodKitchenHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -33934,7 +33934,7 @@ Schedule:Day:Hourly,
     18.89,                   !- Hour 22
     18.89,                   !- Hour 23
     18.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RestaurantFastFoodKitchenClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -33962,7 +33962,7 @@ Schedule:Day:Hourly,
     26.11,                   !- Hour 22
     26.11,                   !- Hour 23
     26.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RestaurantFastFoodKitchenClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -33990,7 +33990,7 @@ Schedule:Day:Hourly,
     26.11,                   !- Hour 22
     26.11,                   !- Hour 23
     26.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RestaurantFastFoodKitchenClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -34750,7 +34750,7 @@ Schedule:Day:Hourly,
     0.9,                     !- Hour 22
     0.9,                     !- Hour 23
     0.9;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RestaurantSitDownRestaurantHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -34778,7 +34778,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RestaurantSitDownRestaurantHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -34806,7 +34806,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RestaurantSitDownRestaurantHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -34834,7 +34834,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RestaurantSitDownRestaurantClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -34862,7 +34862,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     23.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RestaurantSitDownRestaurantClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -34890,7 +34890,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     23.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RestaurantSitDownRestaurantClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -35731,7 +35731,7 @@ Schedule:Day:Hourly,
     0.3,                     !- Hour 22
     0.2,                     !- Hour 23
     0.2;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RestaurantSitDownKitchenHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -35759,7 +35759,7 @@ Schedule:Day:Hourly,
     18.89,                   !- Hour 22
     18.89,                   !- Hour 23
     18.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RestaurantSitDownKitchenHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -35787,7 +35787,7 @@ Schedule:Day:Hourly,
     18.89,                   !- Hour 22
     18.89,                   !- Hour 23
     18.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RestaurantSitDownKitchenHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -35815,7 +35815,7 @@ Schedule:Day:Hourly,
     18.89,                   !- Hour 22
     18.89,                   !- Hour 23
     18.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RestaurantSitDownKitchenClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -35843,7 +35843,7 @@ Schedule:Day:Hourly,
     26.11,                   !- Hour 22
     26.11,                   !- Hour 23
     26.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RestaurantSitDownKitchenClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -35871,7 +35871,7 @@ Schedule:Day:Hourly,
     26.11,                   !- Hour 22
     26.11,                   !- Hour 23
     26.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RestaurantSitDownKitchenClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -36631,7 +36631,7 @@ Schedule:Day:Hourly,
     0.9,                     !- Hour 22
     0.9,                     !- Hour 23
     0.9;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RetailGroceryRetailHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -36659,7 +36659,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RetailGroceryRetailHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -36687,7 +36687,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RetailGroceryRetailHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -36715,7 +36715,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RetailGroceryRetailClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -36743,7 +36743,7 @@ Schedule:Day:Hourly,
     29.44,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RetailGroceryRetailClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -36771,7 +36771,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RetailGroceryRetailClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -38023,7 +38023,7 @@ Schedule:Day:Hourly,
     0.9,                     !- Hour 22
     0.9,                     !- Hour 23
     0.9;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RetailMediumRetailHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -38051,7 +38051,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RetailMediumRetailHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -38079,7 +38079,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RetailMediumRetailHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -38107,7 +38107,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RetailMediumRetailClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -38135,7 +38135,7 @@ Schedule:Day:Hourly,
     29.44,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RetailMediumRetailClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -38163,7 +38163,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RetailMediumRetailClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -38923,7 +38923,7 @@ Schedule:Day:Hourly,
     0.9,                     !- Hour 22
     0.9,                     !- Hour 23
     0.9;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RetailStripMallRetailHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -38951,7 +38951,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RetailStripMallRetailHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -38979,7 +38979,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RetailStripMallRetailHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -39007,7 +39007,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RetailStripMallRetailClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -39035,7 +39035,7 @@ Schedule:Day:Hourly,
     29.44,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RetailStripMallRetailClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -39063,7 +39063,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     RetailStripMallRetailClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -39823,7 +39823,7 @@ Schedule:Day:Hourly,
     0.0,                     !- Hour 22
     0.0,                     !- Hour 23
     0.0;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolK8ClassroomHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -39851,7 +39851,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolK8ClassroomHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -39879,7 +39879,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolK8ClassroomHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -39907,7 +39907,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolK8ClassroomClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -39935,7 +39935,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolK8ClassroomClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -39963,7 +39963,7 @@ Schedule:Day:Hourly,
     29.44,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolK8ClassroomClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -40399,7 +40399,7 @@ Schedule:Day:Hourly,
     0.0,                     !- Hour 22
     0.0,                     !- Hour 23
     0.0;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolK8KitchenHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -40427,7 +40427,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolK8KitchenHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -40455,7 +40455,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolK8KitchenHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -40483,7 +40483,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolK8KitchenClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -40511,7 +40511,7 @@ Schedule:Day:Hourly,
     29.44,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolK8KitchenClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -40539,7 +40539,7 @@ Schedule:Day:Hourly,
     29.44,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolK8KitchenClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -41299,7 +41299,7 @@ Schedule:Day:Hourly,
     0.0,                     !- Hour 22
     0.0,                     !- Hour 23
     0.0;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolK8MPRHtgSetptWD,   !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -41327,7 +41327,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolK8MPRHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -41355,7 +41355,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolK8MPRHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -41383,7 +41383,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolK8MPRClgSetptWD,   !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -41411,7 +41411,7 @@ Schedule:Day:Hourly,
     29.44,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolK8MPRClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -41439,7 +41439,7 @@ Schedule:Day:Hourly,
     29.44,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolK8MPRClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -42769,7 +42769,7 @@ Schedule:Day:Hourly,
     1.0,                     !- Hour 22
     1.0,                     !- Hour 23
     1.0;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolLargeClassroomHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -42797,7 +42797,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolLargeClassroomHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -42825,7 +42825,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolLargeClassroomHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -42853,7 +42853,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolLargeClassroomClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -42881,7 +42881,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolLargeClassroomClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -42909,7 +42909,7 @@ Schedule:Day:Hourly,
     29.44,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolLargeClassroomClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -43264,7 +43264,7 @@ Schedule:Day:Hourly,
     0.0,                     !- Hour 22
     0.0,                     !- Hour 23
     0.0;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolLargeKitchenHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -43292,7 +43292,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolLargeKitchenHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -43320,7 +43320,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolLargeKitchenHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -43348,7 +43348,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolLargeKitchenClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -43376,7 +43376,7 @@ Schedule:Day:Hourly,
     29.44,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolLargeKitchenClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -43404,7 +43404,7 @@ Schedule:Day:Hourly,
     29.44,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolLargeKitchenClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -44164,7 +44164,7 @@ Schedule:Day:Hourly,
     0.0,                     !- Hour 22
     0.0,                     !- Hour 23
     0.0;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolLargeGymHtgSetptWD,!- Name
     Temperature,             !- Schedule Type Limits Name
@@ -44192,7 +44192,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolLargeGymHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -44220,7 +44220,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolLargeGymHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -44248,7 +44248,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolLargeGymClgSetptWD,!- Name
     Temperature,             !- Schedule Type Limits Name
@@ -44276,7 +44276,7 @@ Schedule:Day:Hourly,
     29.44,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolLargeGymClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -44304,7 +44304,7 @@ Schedule:Day:Hourly,
     29.44,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolLargeGymClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -45388,7 +45388,7 @@ Schedule:Day:Hourly,
     0.0,                     !- Hour 22
     0.0,                     !- Hour 23
     0.0;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolRelocatableClassroomHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -45416,7 +45416,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolRelocatableClassroomHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -45444,7 +45444,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolRelocatableClassroomHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -45472,7 +45472,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolRelocatableClassroomClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -45500,7 +45500,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolRelocatableClassroomClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -45528,7 +45528,7 @@ Schedule:Day:Hourly,
     29.44,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     SchoolRelocatableClassroomClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -46288,7 +46288,7 @@ Schedule:Day:Hourly,
     1.0,                     !- Hour 22
     1.0,                     !- Hour 23
     1.0;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     WarehouseFineStorageHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -46316,7 +46316,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     WarehouseFineStorageHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -46344,7 +46344,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     WarehouseFineStorageHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -46372,7 +46372,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     WarehouseFineStorageClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -46400,7 +46400,7 @@ Schedule:Day:Hourly,
     29.44,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     WarehouseFineStorageClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -46428,7 +46428,7 @@ Schedule:Day:Hourly,
     29.44,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     WarehouseFineStorageClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -46945,7 +46945,7 @@ Schedule:Day:Hourly,
     1.0,                     !- Hour 22
     1.0,                     !- Hour 23
     1.0;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     WarehouseBulkStorageHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -46973,7 +46973,7 @@ Schedule:Day:Hourly,
     10.0,                    !- Hour 22
     10.0,                    !- Hour 23
     10.0;                    !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     WarehouseBulkStorageHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -47001,7 +47001,7 @@ Schedule:Day:Hourly,
     10.0,                    !- Hour 22
     10.0,                    !- Hour 23
     10.0;                    !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     WarehouseBulkStorageHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -47680,7 +47680,7 @@ Schedule:Day:Hourly,
     1.0,                     !- Hour 22
     1.0,                     !- Hour 23
     1.0;                     !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     WarehouseOfficeHtgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -47708,7 +47708,7 @@ Schedule:Day:Hourly,
     21.11,                   !- Hour 22
     21.11,                   !- Hour 23
     21.11;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     WarehouseOfficeHtgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -47736,7 +47736,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     WarehouseOfficeHtgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -47764,7 +47764,7 @@ Schedule:Day:Hourly,
     15.56,                   !- Hour 22
     15.56,                   !- Hour 23
     15.56;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     WarehouseOfficeClgSetptWD,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -47792,7 +47792,7 @@ Schedule:Day:Hourly,
     23.89,                   !- Hour 22
     23.89,                   !- Hour 23
     23.89;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     WarehouseOfficeClgSetptSat,  !- Name
     Temperature,             !- Schedule Type Limits Name
@@ -47820,7 +47820,7 @@ Schedule:Day:Hourly,
     29.44,                   !- Hour 22
     29.44,                   !- Hour 23
     29.44;                   !- Hour 24
-! Temperature in °F (IP Units)
+! Temperature in ï¿½F (IP Units)
 Schedule:Day:Hourly,
     WarehouseOfficeClgSetptSun,  !- Name
     Temperature,             !- Schedule Type Limits Name
